@@ -213,5 +213,3 @@ def follow(request, to_follow):
         follow_s = Follow(follower=request.user.profile, followed=user_profile3)
         follow_s.save()
         return redirect('user_profile', user_profile3.user.username)
-
-# Create your views here.
