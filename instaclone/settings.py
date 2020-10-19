@@ -83,7 +83,7 @@ WSGI_APPLICATION = 'instaclone.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.sqlite3',
-        'NAME': 'second',
+        'NAME': 'pray',
         'USER':'moringa',
         'PASSWORD' : 'Access',
     }
