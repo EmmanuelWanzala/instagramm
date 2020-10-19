@@ -27,7 +27,7 @@ SECRET_KEY = 'ydf1)#%*_dow#2j^+%^a&77qu3hvp03$p(rw-zi3izg*t$^d^_'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [instagram-lite0.herokuapp.com]
 
 
 # Application definition
