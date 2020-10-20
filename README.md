@@ -7,9 +7,8 @@ This web-app allows a user to create a Profile,add a Location and Post that are 
 
 ## Setup/Installation Requirements
 * Live site can be accessed from the following link 
-* Pre-configured Admin details are:
-Password: halowars54611
-Username: donaldkiplagat
+
+  https://gradualgram.herokuapp.com/
 
 ### Known Bugs
 * Elements re-arrange themselves unequally on different screen sizes.
